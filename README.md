@@ -32,5 +32,5 @@ Control YouTube with your hand gestures using your webcam. This project uses Med
 ### 1. Clone this repo
 
 ```bash
-git clone https://github.com/your-username/gesture-youtube-controller.git
-cd gesture-youtube-controller
+git clone https://github.com/garvbehl23/youtubecontroller.git
+cd youtubecontroller
